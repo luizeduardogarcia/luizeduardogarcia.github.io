@@ -1,10 +1,10 @@
 ---
 layout: page
 title: I am Luiz Eduardo
-subtitle: SysAdmin, SysOps, automation fan and entusiastic
+subtitle: SysAdmin, SysOps and PowerShell Adventurer!
 ---
 
-## Hi, I am Luiz Eduardo.
+## Hi, I am Luiz Eduardo - LE for short
 
 I´m in the IT business since 1997, and I´ve done it all, including service desk, network and server admin, physical network, development from console (yeah, Clipper baby!), windows forms, sql and web.
 
