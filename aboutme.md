@@ -22,6 +22,6 @@ My interest subjects are:
 Feel free for contating me at:
 * [Email: luiz.epgarcia@hotmail.com](mailto:luiz.epgarcia@hotmail.com)
 * [GitHub](https://github.com/luizeduardogarcia)
-* [LinkedIn](https://www.linkedin.com/in/luiz-eduardo-garcia/
+* [LinkedIn](https://www.linkedin.com/in/luiz-eduardo-garcia)
 
 Have a happy coding!
