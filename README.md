@@ -1,8 +1,8 @@
 # luizeduardogarcia.github.io
 
-This repo contains the content of my blog and website.
+This repo contains the content of my blog and website. [Check it out](https://luizeduardogarcia.github.io/)!
 
-*Copyright (c) 2019 Luiz Eduardo Garcia All Rights Reserved*
+*Copyright (c) 2020 Luiz Eduardo Garcia All Rights Reserved*
 
 # Beautiful Jekyll
 
