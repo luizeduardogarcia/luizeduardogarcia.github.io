@@ -25,5 +25,6 @@ The objective here it´s to bring the most possible technics and tecnologies tha
 * [Email: luiz.epgarcia@hotmail.com](mailto:luiz.epgarcia@hotmail.com)
 * [GitHub](https://github.com/luizeduardogarcia)
 * [LinkedIn](https://www.linkedin.com/in/luiz-eduardo-garcia)
+* [Medium](https://medium.com/@luiz.epgarcia)
 
 Have a happy coding!
